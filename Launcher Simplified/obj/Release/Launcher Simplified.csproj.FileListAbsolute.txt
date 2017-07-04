@@ -1,0 +1,4 @@
+C:\Users\Aldo\Documents\Visual Studio 2013\Projects\Launcher Simplified\Launcher Simplified\bin\Release\Launcher Simplified.exe.config
+C:\Users\Aldo\Documents\Visual Studio 2013\Projects\Launcher Simplified\Launcher Simplified\obj\Release\Launcher_Simplified.Form1.resources
+C:\Users\Aldo\Documents\Visual Studio 2013\Projects\Launcher Simplified\Launcher Simplified\obj\Release\Launcher_Simplified.Properties.Resources.resources
+C:\Users\Aldo\Documents\Visual Studio 2013\Projects\Launcher Simplified\Launcher Simplified\obj\Release\Launcher Simplified.csproj.GenerateResource.Cache

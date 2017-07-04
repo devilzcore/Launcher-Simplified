@@ -1,0 +1,10 @@
+c:\users\aldo\documents\visual studio 2013\Projects\Launcher Simplified\Launcher Simplified\bin\Debug\Launcher Simplified.exe.config
+c:\users\aldo\documents\visual studio 2013\Projects\Launcher Simplified\Launcher Simplified\bin\Debug\Launcher Simplified.exe
+c:\users\aldo\documents\visual studio 2013\Projects\Launcher Simplified\Launcher Simplified\bin\Debug\Launcher Simplified.pdb
+c:\users\aldo\documents\visual studio 2013\Projects\Launcher Simplified\Launcher Simplified\obj\Debug\Launcher Simplified.csprojResolveAssemblyReference.cache
+c:\users\aldo\documents\visual studio 2013\Projects\Launcher Simplified\Launcher Simplified\obj\Debug\Launcher_Simplified.Form1.resources
+c:\users\aldo\documents\visual studio 2013\Projects\Launcher Simplified\Launcher Simplified\obj\Debug\Launcher_Simplified.Properties.Resources.resources
+c:\users\aldo\documents\visual studio 2013\Projects\Launcher Simplified\Launcher Simplified\obj\Debug\Launcher Simplified.csproj.GenerateResource.Cache
+c:\users\aldo\documents\visual studio 2013\Projects\Launcher Simplified\Launcher Simplified\obj\Debug\Launcher Simplified.exe
+c:\users\aldo\documents\visual studio 2013\Projects\Launcher Simplified\Launcher Simplified\obj\Debug\Launcher Simplified.pdb
+C:\Users\Aldo\Documents\Visual Studio 2013\Projects\Launcher Simplified\Launcher Simplified\bin\Debug\Ionic.Zip.dll
